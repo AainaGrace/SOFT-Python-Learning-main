@@ -1,2 +1,13 @@
 # SOFT-Python-Learning
-30 Days of Python
+
+**Student:** Aaina Grace
+**Register No:** 26JSOFT120
+**Staff:** Sathish Kumar M
+**Department:** School of Future Technology, Jain University
+
+## Progress
+| Day | Topic | Status |
+|-----|-------|--------|
+| Day 01 | Introduction | Done |
+| Day 02 | Variables & Built-in Functions | Pending |
+
