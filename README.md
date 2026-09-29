@@ -1,8 +1,8 @@
 # SOFT-Python-Learning
 
-**Student:** Aaina Grace
-**Register No:** 26JSOFT120
-**Staff:** Sathish Kumar M
+**Student:** Aaina Grace <br>
+**Register No:** 26JSOFT120 <br>
+**Staff:** Sathish Kumar M <br>
 **Department:** School of Future Technology, Jain University
 
 ## Progress
