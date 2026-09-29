@@ -15,7 +15,7 @@ print('Data type of first_name:', type(first_name))
 print('Length of first name:', len(first_name))
 print(full_name)
 
-#Simple calculation vaeiables
+#Simple calculation variables
 num1 =5
 num2 =4
 total = num1 + num2
