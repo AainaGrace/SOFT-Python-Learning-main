@@ -22,3 +22,12 @@ perimeter_rectangle = 2 * (length + width)
 
 print('Rectangle Area:', area_rectangle)
 print('Rectangle Perimeter:', perimeter_rectangle)
+
+# Calculate Circumference & Area of a Circle
+radius = 7
+pi = 3.14159
+circle_area = pi * (radius ** 2)
+circle_circumference = 2 * pi * radius
+
+print('Circle Area:', circle_area)
+print('Circle Circumference:', circle_circumference)
