@@ -12,3 +12,6 @@
 | Day 02 | Variables & Built-in Functions | Done |
 | Day 03 | Operators | Done |
 | Day 04 | String | Done |
+| Day 05 | Lists | Done |
+| Day 06 | Tuples |Done |
+| Day 07 | Sets | Done |
