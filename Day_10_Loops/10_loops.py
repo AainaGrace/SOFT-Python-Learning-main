@@ -112,12 +112,6 @@ print("Reversed fruits list:", reversed_fruits)
 
 
 # 3. Working with countries_data (Simulated standard dataset analysis)
-# Since large datasets usually require importing external files, 
-# here is the clean, beginner-friendly way using Python logic:
-
-# Note: In your actual course repo, you would import countries_data from data.countries_data
-# Below is a sample block showing how the logic works for total languages, top languages, and population:
-
 print("\n--- Level 3 Part 3 Summary ---")
 print("To get the exact answers for the data files:")
 print("1. Total languages: You loop through each country, grab their languages list, and add them to a set to remove duplicates, then use len().")
